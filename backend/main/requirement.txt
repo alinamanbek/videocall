@@ -1,0 +1,4 @@
+npm install axios
+
+npm install simple-peer
+npm install socket.io-client
